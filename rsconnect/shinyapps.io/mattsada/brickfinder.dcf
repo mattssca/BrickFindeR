@@ -1,0 +1,10 @@
+name: brickfinder
+title:
+username: mattsada
+account: mattsada
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15099829
+bundleId: 10644237
+url: https://mattsada.shinyapps.io/brickfinder/
+version: 1
